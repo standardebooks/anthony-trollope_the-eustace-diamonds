@@ -65,6 +65,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/7381</dc:source>
 		<dc:source>https://archive.org/details/eustacediamonds02trolgoog</dc:source>
 		<meta property="se:production-notes">
+			- [Typography] Ch 1, "But⁠— Then" is correct (do not remove space).
 			- [Typography] Ch 33, "ENEMY" all caps is correct ("she wrote in big letters").
 			- [Modernize] Ch 54, "do-or-die" is correct (changes to "door-die").
 			- [Lint] Ch 57, "be b⁠⸺" is correct ("b"+2em, no period).
